@@ -41,5 +41,5 @@ Activate the virtual environment:
 Install the required dependencies from the `requirements.txt` file:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirments.txt
 ```
